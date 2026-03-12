@@ -15,7 +15,7 @@
 body {
     font-family: 'Segoe UI', Arial, sans-serif;
     /* TODO: Cambia este color por el que prefieras */
-    background-color: #8c0c05;
+    background-color: #0ee00b;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
